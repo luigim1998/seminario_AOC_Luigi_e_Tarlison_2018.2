@@ -1,0 +1,7 @@
+TIM: redes NB-IoT usando infraestrutura 4G da TIM;
+
+American Tower do Brasil: trabalha com rede LoRaWAN™, "A American Tower vai vender conectividade para clientes com perfil de atacado, que precisem de uma infraestrutura de rede de baixo custo para suportar ou complementar suas soluções e aplicações de IoT", (Fonte: Convergência Digital)
+
+Biocam: exemplo é o I-Vigilant, "I-Vigilant é um sistema autônomo de monitoramento contínuo e em tempo real de temperatura e controle de acesso para câmaras de conservação de vacina, câmaras e frezeres de Hemoderivados e salas climatizadas de armazenamento e preparação de medicamentos.", (Fonte: Biocam)
+
+Taggen: exemplo é o Taggen Beacon, Taggen Gatewy e Taggen IoT Link, "O TAGGEN Gateway é um hardware especializado que facilita a coleta de dados de dispositivos IoT e envio para a plataforma TAGGEN IoT Link. Adicionalmente o Gateway permite a coleta automática de dados do TAGGEN Beacon (incluindo sensores) e leitores RFID UHF homologados (funcionando como Middleware embarcado para estes últimos).", (Fonte: Taggen)
